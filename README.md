@@ -1,6 +1,6 @@
-# first_app
+# Expense Tracker
 
-A new Flutter project.
+A new Flutter project to track weekly expense with chart display of expense.
 
 ## Getting Started
 
